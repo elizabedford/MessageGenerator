@@ -1,0 +1,31 @@
+body {
+    background-color:rgb(219, 206, 16);
+}
+
+#container {
+    background: dodgerblue;
+    border : 5px solid rgb(10, 79, 230);
+    height : 275px;
+    width:inherit;
+    margin : 0 auto;
+    text-align:center;
+}
+
+#button {
+    background-color: white;
+    color: black;
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: medium;
+
+
+}
+
+#output{
+    margin:25px auto;
+    background-color: dodgerblue;
+    color:rgb(12, 11, 11);
+    font-size:larger;
+    text-align:center; 
+}
